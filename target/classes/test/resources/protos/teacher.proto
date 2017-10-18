@@ -1,0 +1,10 @@
+syntax="proto2";
+package TeacherPackage;
+import "student.proto";
+option java_outer_classname = "TeacherProto";
+
+message Teacher{
+	required int32 id = 1;
+	optional string name = 2;
+	repeated StudentPackage.Student student_list = 3;
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.jerry.protocol.test.TestPb" duration-ms="1674" started-at="2017-10-18T07:33:07Z" finished-at="2017-10-18T07:33:08Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="1674" started-at="2017-10-18T07:33:07Z" finished-at="2017-10-18T07:33:08Z">
+      <class name="com.jerry.protocol.test.TestPb">
+        <test-method status="PASS" signature="TestStudent()[pri:0, instance:com.jerry.protocol.test.TestPb@11531931]" name="TestStudent" duration-ms="1168" started-at="2017-10-18T15:33:07Z" finished-at="2017-10-18T15:33:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestStudent -->
+        <test-method status="PASS" signature="TestTeacher()[pri:0, instance:com.jerry.protocol.test.TestPb@11531931]" name="TestTeacher" duration-ms="479" started-at="2017-10-18T15:33:08Z" finished-at="2017-10-18T15:33:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTeacher -->
+      </class> <!-- com.jerry.protocol.test.TestPb -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.jerry.protocol.test.TestPb -->
+</testng-results>
